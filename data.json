@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Jā",
+        "option1": "Taip",
+        "option2": "Ne",
+        "option3": "Ja",
+        "option4": "čia",
+        "correctOption": 1,
+        "category": "Pieklājības frāzes"
+      },
+      {
+        "question": "Nē",
+        "option1": "No",
+        "option2": "Taip",
+        "option3": "Ne",
+        "option4": "čia",
+        "correctOption": 3,
+        "category": "Pieklājības frāzes"
+      }
+]
